@@ -1,7 +1,7 @@
 #  Md Yekra Rahman - Portfolio
 ## About Me
 ----
-![ Infront of Department after Graduation]('Images/IMG_4727.jpg' 'Me holding my undergraduate thesis' )
+![ Infront of Department after Graduation](https://raw.githubusercontent.com/MdYekraRahman/Website/main/IMG_4727.jpg 'Me holding my undergraduate thesis') 
 ----
 Hello, I'm Md Yekra Rahman, a graduate from the Department of Electrical and Electronics Engineering at Bangladesh University of Engineering and Technology. My major focus during my undergraduate studies was Electronics, but I have a broad interest in various fields within my sector.
 
