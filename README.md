@@ -4,7 +4,7 @@
 
 <img
  src="https://raw.githubusercontent.com/MdYekraRahman/Website/main/IMG_4727_cpy.jpg" alt= " Infront of Department after Graduation" width="20%" height="20%">
-----
+
 Hello, I'm Md Yekra Rahman, a graduate from the Department of Electrical and Electronics Engineering at **Bangladesh University of Engineering and Technology**. My major focus during my undergraduate studies was Electronics, but I have a broad interest in various fields within my sector.
 
 While pursuing my degree, I developed a passion for Data Analysis and Automation. I actively participated in different projects that involved these areas, honing my skills and gaining practical experience. I thoroughly enjoy working with data, extracting insights, and automating processes to optimize efficiency.
