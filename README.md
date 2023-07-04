@@ -3,7 +3,7 @@
 ----
 
 <img
- src="https://raw.githubusercontent.com/MdYekraRahman/Website/main/IMG_4727_cpy.jpg" alt= " Infront of Department after Graduation" width="20%" height="20%">
+ src="https://raw.githubusercontent.com/MdYekraRahman/Website/main/IMG_4727.jpg" alt= " Infront of Department after Graduation" width="50%" height="30%">
 
 Hello, I'm Md Yekra Rahman, a graduate from the Department of Electrical and Electronics Engineering at **Bangladesh University of Engineering and Technology**. My major focus during my undergraduate studies was Electronics, but I have a broad interest in various fields within my sector.
 
