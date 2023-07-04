@@ -1,4 +1,4 @@
-# <div align="center"> Md Yekra Rahman - Portfolio
+#  Md Yekra Rahman - Portfolio
 ## About Me
 ----
 Hello, I'm Md Yekra Rahman, a graduate from the Department of Electrical and Electronics Engineering at Bangladesh University of Engineering and Technology. My major focus during my undergraduate studies was Electronics, but I have a broad interest in various fields within my sector.
